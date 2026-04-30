@@ -5,3 +5,7 @@
 
 # Output on Console
 ![alt text](/images/image-1.png)
+
+# Info endpoint   http://localhost:3000/info
+
+![alt text](image.png)
